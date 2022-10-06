@@ -1,0 +1,2 @@
+# Yandex_Practicum_project_2
+Исследование надёжности заёмщиков
